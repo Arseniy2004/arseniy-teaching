@@ -5,7 +5,7 @@ class MyFirstProgram {
 
     public static void main(String args[]){
 
-        System.out.println("\n\tJava drives me crazy!\n");
+        System.out.println("\n\tI have a big dog.\n");
 
     }		
 }
