@@ -1,5 +1,6 @@
-import com.arseniy.firstproject.Dog;
-/**
+import com.arseniy.firstproject.Dog; 
+
+/** 
  * My very first program
  */
 class MyFirstProgram {
