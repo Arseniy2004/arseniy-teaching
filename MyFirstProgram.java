@@ -15,6 +15,5 @@ class MyFirstProgram {
         System.out.println("\nI have a big dog.\n");
         // ask the dog to say hello
         dog.sayHello();
-
     }		
 }
